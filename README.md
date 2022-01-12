@@ -10,7 +10,7 @@
    - Attempt to predict the acces to health using Random Forest, KNN, SVM and logistic regression
    - Finally, the program receives an input of longitude and latitude and it shows the level of health in that zone in a map using KNN
 
-![]https://github.com/AdrianLandaverde/Adrian_Portfolio/blob/main/images/proyecto6.png
+![](/images/proyecto6.png)
 
 ## Project 5: Process Optimization for FEMSA-Coca Cola
 ### Pyhton | R
@@ -22,7 +22,7 @@
    - Implementation of Random Forest to predict energy per day in the whole plant in the dataset after PCA
    - *For data privacy of the company, no code neither data is shown*
 
-![]https://github.com/AdrianLandaverde/Adrian_Portfolio/blob/main/images/proyecto5.png
+![](/images/proyecto5.png)
 
 ## [Project 4: Mario Kart 8 combination optimization](https://github.com/AdrianLandaverde/Combinaciones_Mario_Kart_8)
 ### R
@@ -32,7 +32,7 @@
    - Creation of a R Shiny Dashboard to find the combination nearest to certain stats using KNN
    - Web app in: https://adrian-landaverde.shinyapps.io/MarioKart8/
 
-![]https://github.com/AdrianLandaverde/Adrian_Portfolio/blob/main/images/proyecto4.png
+![](/images/proyecto4.png)
 
 ## [Project 3: Air pollutants predictor in the CDMX](https://github.com/AdrianLandaverde/Contaminantes_en_la_CDMX)
 ### R
@@ -42,7 +42,7 @@
    - Multiple Linear Regression to predict air pollutants based on meteorological conditions such as pression, temperature, wind speed, among others.
    - Presentation of every regression in a Shiny Dashboard in R.
 
-![]https://github.com/AdrianLandaverde/Adrian_Portfolio/blob/main/images/proyecto3.png
+![](/images/proyecto3.png)
 
 ## [Project 2: Analysis of genes that cause colon cancer](https://github.com/AdrianLandaverde/Genes_Cancer_de_Colon)
 ### R
@@ -53,7 +53,7 @@
    - Investigation of the main genes using genomic databases such as STRING, KEGG, Panther, and NCBI.
    - Analysis of the relation and effects of the genes that cause colon cancer evolve from stage II to stage III.
 
-![]https://github.com/AdrianLandaverde/Adrian_Portfolio/blob/main/images/proyecto2.png
+![](/images/proyecto2.png)
 
 ## Project 1: Calories per gram of macro and micronutrients in my vegan diet
 ### Python | Excel
@@ -62,4 +62,4 @@
    - Usage of Linear Regression with Sickit-Learn to predict calories per gram of nutrient.
 
 
-![]https://github.com/AdrianLandaverde/Adrian_Portfolio/blob/main/images/proyecto1.png
+![](/images/proyecto1.png)
